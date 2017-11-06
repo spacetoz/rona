@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.main {width:1100px;margin:35px auto 40px auto;}
+.main .left,.main .right{float:left;}
+.main .left{width:304px;}
+.right{width:754px; padding-left:42px;}
+h2{background:url(../../../index/images/tb.png) no-repeat left 4px; padding-left:26px; font-size:16px; color:#543a29; height:23px; line-height:23px; width:726px; margin-bottom:39px;}
+h2 span{width:350px; font-size:12px; color:#543a29; float:right; text-align:right;}
+h2 span a{color:#543a29;}
+h3{font-size:16px; color:#563926; width:350px; height:16px; margin:0 auto 19px auto; text-align:center;}
+p{font-size:12px; color:#2a2b28; line-height:25px; text-indent:24px;}
+p:nth-child(3){margin-left:316px; color:#563926; margin-bottom:54px;}
+p:nth-child(4){margin-bottom:44px;}
+p a{color:#563926;}
+img{ display:block;float:left; margin-bottom:20px; width:300px; height:300px;}
+.wrap_banner{width:1144px;margin:0 auto;}
+.wrap_footer{width:1100px;margin:0 auto;}
+

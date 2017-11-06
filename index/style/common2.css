@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.banner{background:url(../images/tel.png) no-repeat right 22px,url(../images/sy_1.png) no-repeat left 3px;width:1144px;margin:0 auto;padding-top:8px;}
+.banner ul {padding-left:310px;}
+.banner ul li{float:left;width:76px;margin-right:55px;height:106px;line-height:106px;font-size:14px;}
+.banner ul li:nth-child(1){margin-right:72px;width:30px;}
+.banner ul li a{color:#a76629;}
+.banner ul li a:hover{color:red;}
+.banner img{margin:0 auto;}

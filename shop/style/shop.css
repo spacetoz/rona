@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap_banner{width:1144px;margin:0 auto;}
+.main{ width:1100px; margin:35px auto 40px auto;}
+.main .left{ float:left; width:303px;}
+.main .right{ width:756px; padding-left:40px; float:left;}
+.main .right .top{ width:756px; padding-bottom:30px;}
+.main .right .top h2{ float:left; width:80px; padding-left:30px; height:22px; line-height:22px; font-size:16px; color:#543a29; background:url(../images/pic_06.jpg) no-repeat left 5px;}
+.main .right .top>p{ float:right; width:300px; text-align:right; font-size:12px; color:#543a29; height:22px;}
+.main .right .top>p a{ color:#543a29;font-family:"宋体";}
+.main .right .top>p a:hover{color:red;}
+.main .right>p{ width:497px; padding-left:124px;}
+.wrap_footer{width:1100px;margin:0 auto;}

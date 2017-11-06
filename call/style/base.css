@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+*{margin:0; padding:0;}
+.clearfix:after{display:block; height:0; clear:both; content:"."; visibility:hidden;}
+ul,li,p,h1,h2,h3,h4,h5,h6,form,label,section,.header,.nav,.banner,.main,.footer,.end,.left,.center,.right,.top,.bottom{display:block;}
+ul{list-style:none;}
+img:{border:0;}
+a{text-decoration:none; outline:none;}
+body{ background:#e8d8b6;}

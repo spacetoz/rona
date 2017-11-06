@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+.wrap_banner{width:1144px;margin:0 auto;}
+.main{width:1101px; margin:35px auto 0 auto; height:613px; position:relative;}
+.main .left,.main .right{float:left;}
+.main .left{width:266px; height:613px; padding-left:21px; margin-right:18px;}
+.main .left img:first-child{margin-top:10px; margin-bottom:31px;}
+.main .left img:last-child{margin-left:10px;}
+.main .left ul{height:60px; margin-bottom:40px;}
+.main .left ul li{font-size:14px; color:#543a29; padding-left:48px; line-height:30px; background:url(../images/tb.png) no-repeat 20px 4px;}
+.main .left ul li a{ color:#543a29;display:block}
+.main .left ul li a:hover{background:url(../images/ab_lfhov.png) no-repeat 80px center;}
+.main .right{width:764px; height:613px; background:url(../images/pic2_03.jpg) no-repeat; padding-left:31px;}
+.main .right ul{height:72px;}
+.main .right h2{font-size:16px; color:#543a29; padding-left:40px; background:url(../images/tb.png) no-repeat 10px 3px; margin-bottom:45px;}
+.main .right p:nth-child(2){margin-left:380px;font-size:12px; color:#543a29; position:absolute; right:0; top:0;}
+.main .right p span a{color:#543a29; text-align:right;font-family:"宋体";}
+.main .right p{font-size:12px; color:#543a29; margin-bottom:21px; line-height:27px;}
+.wrap_footer{ width:1100px;margin:40px auto 0 auto;}

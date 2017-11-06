@@ -1,0 +1,11 @@
+@charset "utf-8";
+/* CSS Document */
+.footer{width:1100px;margin:0 auto;background:url(../images/foottb.png) no-repeat right 60px;padding-bottom:44px;color:#543a29;}
+.footer h2{height:78px;line-height:78px;font-size:14px;}
+.footer h2 a{color:#543a29;display:inline-block;padding-right:21px;font-weight:lighter;}
+.footer h2 a:hover{color:red;}
+.footer p{height:31px;line-height:31px;}
+.footer p a:nth-child(1){padding-left:0;}
+.footer p:nth-child(2) a{display:inline-block;padding-right:11px;padding-left:5px;color:#543a29;}
+.footer p a:hover{color:red;}
+

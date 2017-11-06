@@ -1,0 +1,9 @@
+@charset "utf-8";
+/* CSS Document */
+.left{padding-left:20px; float:left; padding-right:18px; border-right:1px solid #9e8a6f; width:265px;}
+.left img:first-child{border-bottom:2px solid #cebba2; margin-bottom:30px;}
+.left li{width:217px; height:30px; background:url(../images/tb.png) no-repeat 20px 6px; padding-left:48px; padding-top:4px;}
+.left li:hover a{background:url(../../dynamic/images/ccc.png) no-repeat 70px 9px;} 
+.left li:nth-child(3):hover a,.left li:nth-child(4):hover a{background:url(../../dynamic/images/ccc.png) no-repeat 150px 9px;}
+.left li a{height:26px; line-height:26px; display:block; font-size:14px; color:#543a29;}
+.left img:last-child{margin-top:40px; margin-bottom:3px;}

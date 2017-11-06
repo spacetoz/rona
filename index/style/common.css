@@ -1,0 +1,8 @@
+@charset "utf-8";
+/* CSS Document */
+.wrap_nav{width:100%;background:#2e2b24;min-width:1100px;}
+.nav{width:1100px;margin:0 auto;}
+.nav p{padding-left:840px;line-height:30px;height:30px;font-size:12px;color:#e8d8b6;}
+.nav p a{color:#e8d8b6;}
+.nav p a:hover{color:red;}
+
